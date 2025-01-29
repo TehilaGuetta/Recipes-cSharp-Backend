@@ -1,0 +1,76 @@
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DAL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DTO.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט\recipe_project\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+Z:\פרויקט\recipe_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\BLL.deps.json
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\recipe_project\BLL\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.dll
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.pdb
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+Z:\פרויקט חנוכה\recipe_project\BLL\obj\Debug\net6.0\ref\BLL.dll

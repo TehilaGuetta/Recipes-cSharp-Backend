@@ -1,0 +1,56 @@
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט\recipe_project\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט\recipe_project\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\פרויקט חנוכה\recipe_project\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\recipe_project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט חנוכה\recipe_project\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\recipe_project\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט חנוכה\recipe_project\DAL\obj\Debug\net6.0\ref\DAL.dll
