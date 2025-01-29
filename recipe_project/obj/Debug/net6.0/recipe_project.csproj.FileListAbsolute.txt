@@ -1,0 +1,274 @@
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.Development.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.exe
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.deps.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.runtimeconfig.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Humanizer.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.AssemblyReference.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfoInputs.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfo.cs
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CoreCompileInputs.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cs
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.build.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.development.json
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\scopedcss\bundle\recipe_project.styles.css
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CopyComplete
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\refint\recipe_project.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.genruntimeconfig.cache
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\ref\recipe_project.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\BLL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DAL.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\BLL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DAL.pdb
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DTO.dll
+Z:\WEB API.NET CORE\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DTO.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.exe
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.deps.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.runtimeconfig.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\BLL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DAL.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DTO.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\BLL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DAL.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DTO.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.AssemblyReference.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfoInputs.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfo.cs
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CoreCompileInputs.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\scopedcss\bundle\recipe_project.styles.css
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CopyComplete
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\refint\recipe_project.dll
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.pdb
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.genruntimeconfig.cache
+C:\Users\תהילה הרר\Desktop\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\ref\recipe_project.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.Development.json
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.json
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.exe
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.deps.json
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.runtimeconfig.json
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.pdb
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Humanizer.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.AssemblyReference.cache
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfoInputs.cache
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfo.cs
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CoreCompileInputs.cache
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cs
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cache
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.build.json
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.development.json
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\scopedcss\bundle\recipe_project.styles.css
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CopyComplete
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.dll
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\refint\recipe_project.dll
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.pdb
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.genruntimeconfig.cache
+Z:\פרויקט\recipe_project\recipe_project\obj\Debug\net6.0\ref\recipe_project.dll
+Z:\פרויקט\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.staticwebassets.runtime.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.Development.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\appsettings.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.staticwebassets.runtime.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.exe
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.deps.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.runtimeconfig.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\recipe_project.pdb
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Humanizer.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\BLL.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\BLL.pdb
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\recipe_project\recipe_project\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.AssemblyInfo.cs
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cs
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.MvcApplicationPartsAssemblyInfo.cache
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.build.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\staticwebassets.development.json
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\scopedcss\bundle\recipe_project.styles.css
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.csproj.CopyComplete
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\refint\recipe_project.dll
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.pdb
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\recipe_project.genruntimeconfig.cache
+Z:\פרויקט חנוכה\recipe_project\recipe_project\obj\Debug\net6.0\ref\recipe_project.dll
